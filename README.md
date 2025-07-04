@@ -1,5 +1,5 @@
 ```markdown
-# 👋 Hi, I'm Ganesh Reddy Chimmula
+#👋 Hi, I'm Ganesh Reddy Chimmula
 
 🎓 **Master's Graduate in Information Systems Technologies**  
 🔐 Specializing in **Information Assurance** | 💻 **Full-Stack Web Developer** | 🤖 Exploring **AI/ML Integration**  
