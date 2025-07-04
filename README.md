@@ -59,7 +59,7 @@ Currently, I'm deepening my knowledge in **AI/ML**, **FastAPI**, and **cloud-nat
 ---
 
 ## 🤝 Let's Connect
-- 📧 Email: [grchimmula@gmail.com](mailto:grchimmula@gmail.com)  
+- 📧 Email: [grchimmula@gmail.com](mailto:grchimmula@gmail.com) [gchimmula@gmail.com](mailto:gchimmula@gmail.com) 
 - 💼 LinkedIn: [linkedin.com/in/ganeshreddychimmula2](https://linkedin.com/in/ganeshreddychimmula2)  
 - 👨‍💻 GitHub: [github.com/ganeshreddychimmula](https://github.com/ganeshreddychimmula)
 
