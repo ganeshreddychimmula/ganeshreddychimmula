@@ -8,9 +8,13 @@
 ---
 
 ## 🚀 About Me
-I'm a versatile and detail-driven developer with strong experience in building secure, scalable, and user-friendly applications using **React**, **Next.js**, **Python**, and **Django**. I bring a security-first mindset from my academic background in Information Assurance, and I'm constantly exploring ways to enhance performance, UX, and DevOps workflows.
+I'm a versatile and detail-driven developer with strong experience in building secure, scalable,
+and user-friendly applications using **React**, **Next.js**, **Python**, and **Django**.
+I bring a security-first mindset from my academic background in Information Assurance, and
+I'm constantly exploring ways to enhance performance, UX, and DevOps workflows.
 
-Currently, I'm deepening my knowledge in **AI/ML**, **FastAPI**, and **cloud-native development**. I thrive in collaborative Agile teams and take pride in clean, maintainable code.
+Currently, I'm deepening my knowledge in **AI/ML**, **FastAPI**, and **cloud-native development**.
+I thrive in collaborative Agile teams and take pride in clean, maintainable code.
 
 ---
 
