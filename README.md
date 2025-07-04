@@ -27,6 +27,7 @@ I thrive in collaborative Agile teams and take pride in clean, maintainable code
 <img src=https://img.shields.io/badge/email-%2300acee.svg?&style=for-the-badge&logo=email&logoColor=white alt=Email style="margin-bottom: 5px;" />
 </a>
 </div>  
+
 ---
 
 
