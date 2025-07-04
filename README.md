@@ -28,4 +28,6 @@ I thrive in collaborative Agile teams and take pride in clean, maintainable code
 </a>
 </div>  
 ---
-> “Code is not just for computers to understand, but for humans to collaborate.”
+
+
+> ==“Anyone who says CSS is easy never had to do complex task with it change my mind.”==
