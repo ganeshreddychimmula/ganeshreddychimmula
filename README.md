@@ -30,4 +30,4 @@ I thrive in collaborative Agile teams and take pride in clean, maintainable code
 ---
 
 
-> ==“Anyone who says CSS is easy never had to do complex task with it change my mind.”==
+> “Anyone who says CSS is easy never had to do complex task with it change my mind.”
