@@ -3,7 +3,8 @@
 
 🎓 **Master's Graduate in Information Systems Technologies**  
 🔐 Specializing in **Information Assurance** | 💻 **Full-Stack Web Developer** | 🤖 Exploring **AI/ML Integration**  
-🌍 Based in the U.S. | 💼 Open to full-time roles in **Software Engineering**, **Full-Stack Development**, and **AI-powered Applications**
+🌍 Based in the U.S. 
+💼 Open to full-time roles in **Software Engineering**, **Full-Stack Development**, and **AI-powered Applications**
 
 ---
 
@@ -15,16 +16,6 @@ I'm constantly exploring ways to enhance performance, UX, and DevOps workflows.
 
 Currently, I'm deepening my knowledge in **AI/ML**, **FastAPI**, and **cloud-native development**.
 I thrive in collaborative Agile teams and take pride in clean, maintainable code.
-
----
-
-## 💼 Experience Snapshot
-**Full-Stack Developer @ Target (2020–2023)**  
-- 🔧 Built merchandising dashboards with **React**, **Tailwind CSS**, **Next.js**
-- ⚙️ Refactored backend logic using **Django** and optimized **PostgreSQL** schemas
-- ☁️ Deployed features using **AWS EC2**, **S3**, **RDS**
-- 🧪 Maintained 85%+ test coverage with **Jest** and **PyTest**
-- 🧠 Mentored junior developers and led code quality initiatives
 
 ---
 
@@ -42,23 +33,6 @@ I thrive in collaborative Agile teams and take pride in clean, maintainable code
 ### 💬 Sentiment Analysis Web App
 **React**, **FastAPI**, **Hugging Face**, **Streamlit**  
 - Real-time classification using transformer models
-
----
-
-## 🛠 Tech Stack
-**Languages:** JavaScript, TypeScript, Python, SQL, Java  
-**Frontend:** React.js, Next.js, Redux, Tailwind, Material UI  
-**Backend:** Django, Flask, FastAPI, REST APIs  
-**Cloud:** AWS (Lambda, EC2, S3), Docker, Vercel, Firebase  
-**Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB  
-**CI/CD & Tools:** GitHub Actions, Cypress, PyTest, Postman, Figma
-
----
-
-## 📜 Certifications
-- Cisco Certified DevNet Associate  
-- CCNA CyberOps  
-- React, Redux & JavaScript Mastery (Coursera/Udemy)
 
 ---
 
