@@ -6,7 +6,9 @@
 ### <div align="center"> 💻 **Full-Stack Web Developer** | 🤖 Exploring **AI/ML Integration**  </div>
 ### <div align="center"> 🎓 **Master's Graduate in Information Systems Technologies**(**Information Assurance**) </div>
 ### <div align="center"> Exploring Full Stack and Frontend Opportunities in U.S. </div>
+
 ---
+
 ## 🚀 About Me
 I'm a developer with strong experience in building secure, scalable,
 and user-friendly applications using **React**, **Next.js**, **Python**, and **Django**.
@@ -14,7 +16,9 @@ I'm constantly exploring ways to enhance performance, UX, and DevOps workflows.
 
 Currently, I'm deepening my knowledge in **AI/ML**, **FastAPI**, and **cloud-native development**.
 I thrive in collaborative Agile teams and take pride in clean, maintainable code.
+
 ---
+
 ## 🤝 Let's Connect
 <div align="center">
 <a href="https://github.com/ganeshreddychimmula" target="_blank">
