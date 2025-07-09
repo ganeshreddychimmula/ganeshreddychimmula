@@ -1,8 +1,8 @@
-<div align="right">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVpMnplOXN6cjhmeHlhaXE1dDVuODhiN2hjaHhrdGl3ajBmc3FtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v5xYHQh2y8AiQ/giphy.gif" width="100%" height="100%" style="position:absolute" />
+<div align="right" ">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVpMnplOXN6cjhmeHlhaXE1dDVuODhiN2hjaHhrdGl3ajBmc3FtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v5xYHQh2y8AiQ/giphy.gif" width="100%"style="position:absolute" />
 </div>
 
-# <div align="center">👋 Hi, I'm Ganesh Reddy Chimmula </div>
+# <div align="center" >👋 Hi, I'm Ganesh Reddy Chimmula </div>
 ### <div align="center"> 💻 **Full-Stack Web Developer** | 🤖 Exploring **AI/ML Integration**  </div>
 ### <div align="center"> 🎓 **Master's Graduate in Information Systems Technologies**(**Information Assurance**) </div>
 ### <div align="center"> Exploring Full Stack and Frontend Opportunities in U.S. </div>
