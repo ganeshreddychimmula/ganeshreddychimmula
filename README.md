@@ -3,7 +3,7 @@
 </div>
 
 # <div align="center" >👋 Hi, I'm Ganesh Reddy Chimmula </div>
-### <div align="center"> 💻 **Full-Stack Web Developer** | 🤖 Exploring **AI/ML Integration**  </div>
+### <div align="center"> 💻 **Engineer Adept at End-to-End Applications** | 🤖 Exploring **AI/ML Integration**  </div>
 ### <div align="center"> 🎓 **Master's Graduate in Information Systems Technologies**(**Information Assurance**) </div>
 ### <div align="center"> Exploring Full Stack and Frontend Opportunities in U.S. </div>
 
